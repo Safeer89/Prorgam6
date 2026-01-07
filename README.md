@@ -1,4 +1,7 @@
 # Prorgam6
+8
+
+
 cd abc
 git branch 
 git checkout feature-branch 
